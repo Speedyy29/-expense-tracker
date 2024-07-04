@@ -1,35 +1,29 @@
-# -expense-tracker
-This is a simple expense tracking application
-Expense Tracker Web App
-This is a simple expense tracking web application built with HTML, CSS and JavaScript. Users can add expenses with category, amount and date. Expenses can also be deleted. Total expense amount is calculated dynamically.
+![Screenshot 2024-07-04 215857](https://github.com/Speedyy29/-expense-tracker/assets/126769340/28bc860d-f8b9-4832-99e0-eee4eb2c2d53)
+![Screenshot 2024-07-04 215909](https://github.com/Speedyy29/-expense-tracker/assets/126769340/7a0170a2-5764-4586-8f18-6512da117f1b)
 
-Features
-Add new expenses
-Delete expenses
-View list of expenses
-Total expense amount calculated
-Usage
-Open index.html in a web browser to view the app.
+## 💰 Expense Tracker Web App
 
-Add expenses using the form. View, edit and delete expenses on the expenses table.
+This is a simple expense tracking web application built with HTML, CSS, and JavaScript. Users can add expenses with category, amount, and date, as well as delete them. The total expense amount is calculated dynamically.
 
-Add expense
-Select category, enter amount and choose date. Click "Add" to add the expense.
+### 🌟 Features
+- **Add New Expenses:** Users can add new expenses with details like category, amount, and date.
+- **Delete Expenses:** Ability to delete individual expenses.
+- **View List of Expenses:** Displays a list of all added expenses.
+- **Dynamic Total Calculation:** Automatically calculates and displays the total expense amount.
 
-Delete expense
-Click "Delete" button on an expense to remove it from the table.
+### 🚀 Usage
+1. **Open `index.html`** in a web browser to view the app.
+2. **Add Expenses:** Fill in the details and add new expenses.
+3. **Delete Expenses:** Remove any expenses as needed.
+4. **View Total:** The total expense amount is calculated and displayed dynamically.
 
-Total expense amount is recalculated automatically.
+### 💻 Built With
+- **HTML**
+- **CSS**
+- **JavaScript**
 
-Code Overview
-index.html - Contains the UI markup
-style.css - Stylesheet for the app
-script.js - Business logic for manipulating and calculating expenses
-The expenses are stored in a simple JS array. The total is calculated by iterating through the array.
-
-Possible Improvements
-Use persistent storage like localStorage to save expenses
-Add ability to edit expenses
-Improve input validation and error handling
-Summary stats and charts for expenses
-Support pagination or load more records
+### 👨‍💻 Author
+**Utkarsh Srivastava**  
+- **Email:** [utkarshsrivastava478@gmail.com](mailto:utkarshsrivastava478@gmail.com)
+- **LinkedIn:** [Utkarsh Srivastava](https://www.linkedin.com/in/utkarshh29/)
+- **GitHub:** [Speedyy29](https://github.com/Speedyy29)
